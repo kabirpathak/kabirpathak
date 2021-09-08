@@ -20,6 +20,13 @@
 ## Hey there! Welcome to my github page.
 <ul>
   <li> 
+    I'm currently learning Ruby-on-Rails and React-js.
+    <ul>
+      <li>https://github.com/kabirpathak/ruby-programming</li>
+      <li>https://github.com/kabirpathak/React-App-Development</li>
+    </ul>
+  </li>
+  <li> 
     I'm currently working on implementing controlled tours with react-joyride. 
     <ul>
       <li>
@@ -27,14 +34,7 @@
       </li>
     </ul>
   </li>
-  <li> 
-    I'm currently learning Ruby-on-Rails and React-js.
-    <ul>
-      <li>https://github.com/kabirpathak/ruby-programming</li>
-      <li>https://github.com/kabirpathak/rails-app-blog</li>
-      <li>https://github.com/kabirpathak/React-App-Development</li>
-    </ul>
-  </li>
+  
 </ul>
 
  ---
